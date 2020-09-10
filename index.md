@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is fuguo
+title: 你好
+subtitle: 我是富国
 sitemap:
   priority: 0.9
 ---
