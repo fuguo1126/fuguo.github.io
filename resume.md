@@ -34,11 +34,6 @@ web前端 / web后端 / 程序开发 / c程序研发
 <span style="float: right; ">私立华联学院</span>  
 **计算机应用技术**  
 热爱班集体 
- 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
 
 
 ### RECOGNITION & INTERESTS
@@ -46,6 +41,3 @@ Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliq
 - 个人爱好打球.
 - 是比较内向的人.
 - 热爱帮助别人.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
