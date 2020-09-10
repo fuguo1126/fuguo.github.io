@@ -15,7 +15,7 @@ subtitle: 富国
 技能：<span>web前端-php</span><br>
 
 **求职意向**
-web前端 / web后端 / 程序开发 / c程序研发
+web前端 / web后端 / 程序开发 / 程序研发
 
 **个人技能**
 熟练掌握php语法 / 熟练laraver 框架
