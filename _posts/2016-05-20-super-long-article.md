@@ -1,13 +1,19 @@
 ---
 layout: page
-title:  "Some articles are just so long they deserve a really long title to see if things will break well"
-subtitle: "A shorter explanation of stuff"
-date:   2016-05-20 21:21:21 +0530
+title:  "做一个乐观的人，这就是幸福"
+subtitle: "富国"
+date:   2020-09-10 16:21 
 categories: misc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+每个人都想拥有幸福，但是，幸福到底是什么呢？不同的人都不同的答案。伤感语录
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+　　孤儿的答案是：有爸爸妈妈就是幸福。孤儿非常羡慕有爸爸妈妈的同龄孩子，因为，他们可以想要什么就能买到什么，而且，还拥有父母的庇护和支持、鼓励。孤儿没有爸爸妈妈的保护，经常受到别人的欺负，他们每天吃饱饭就已经是难得了，更别说想得到他们想要的东西了！所以，对于孤儿来说，有爸爸妈妈就是幸福。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+　　灾区孩子的答案是：有房子住，有好衣服穿就是幸福。灾难毁掉了他们的家园，这些孩子因此没有了家。人们常说：家是每个人的避风港。是的，没有了避风港的孩子还怎么谈得上幸福呢？所以，对于灾区孩子来说，有房子住，有衣服穿就是幸福。www.28404.com
+
+　　学生的答案是：能取得理想的成绩，考上好的大学，就是幸福。每个莘莘学子都渴望自己的努力得到回报，考上理想的大学也是他们所追求的目标，所以，对于学生来说，取得理想的成绩，考上好的大学就是幸福。
+
+　　我的答案是：爱着我们自己，爱着我们的亲人，爱着我们的朋友，珍惜当下所拥有的一切，不贪心，不贪图一切利益，为了自己的梦想去努力拼搏，达到自己的目的，每天笑对朝阳，做一个知足的人，做一个乐观的人，这就是幸福。幸福是无形的爱情语录，你觉得它有，它就有，你觉得它没有，它自然就不在你身边停留。因为，幸福永远驻留在乐观者的身上，上帝是公平的，他给每个人同样的阳光，就要看你选择的位置了！你站在中间，阳光自然会追随你，相反，你站在角落，阳光是找不到你的。
+
+　　幸福是变幻莫测的，它时而简单，时而复杂。对于知足的人来说，幸福其实很简单，但对于贪心的人来说，幸福是个复杂的东西。幸福总是会降临到善良的人和乐观的人身上，正如我的题目所写得那样：幸福，既简单又不简单。
