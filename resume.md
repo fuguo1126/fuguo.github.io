@@ -31,7 +31,7 @@ web前端 / web后端 / 程序开发 / c程序研发
 
 ### 教育背景
 
-<span style="float: right; ">私立华联学院</span>  
+**私立华联学院** <span style="float: right; ">私立华联学院</span>  
 **计算机应用技术**  
 热爱班集体 
 
