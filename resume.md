@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 个人博客
+title: 个人简介
 subtitle: 富国
 ---
 
