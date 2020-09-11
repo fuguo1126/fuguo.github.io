@@ -1,17 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    {%  include meta_tags/base.html %}
-    {%  include externals/styling.html %}
-</head>
-<body>
-    <div class="wrapper">
-        {% include header.html %}
-        {{ content }}
+---
+layout: default
+---
+{% include page/title.html %}
 
-    </div>
 
-    {% include externals/scripting.html %}
-    
-</body>
-</html>
+<div> {{ page:dashuaige}}</div>
+
+{% include page/about.html %}
