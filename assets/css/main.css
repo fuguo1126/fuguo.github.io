@@ -6,10 +6,15 @@
     color: #012;
     background-color: #FFF;
     background-image: url(/assets/img/timg2.jpg);
-    background-repeat: repeat-y; 
+    /*background-repeat: repeat-y;*/ 
     /*background-attachment: fixed;*/
-    background-size: 100%,cover;
-    -moz-background-size:100% 100%;
+    /*background-size: 100%,cover;*/
+    /*-moz-background-size:100% 100%;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-position: center 0;
   }
 
   a {
