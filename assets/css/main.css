@@ -6,10 +6,6 @@
     color: #012;
     background-color: #FFF;
     background-image: url(/assets/img/1.jpg);
-    /*background-repeat: repeat-y;*/ 
-    /*background-attachment: fixed;*/
-    /*background-size: 100%,cover;*/
-    /*-moz-background-size:100% 100%;*/
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
@@ -24,7 +20,8 @@
 
   p, ul, ol, dl {
     font-size: 100%;
-    line-height: 32px; }
+    line-height: 32px;
+    color: aliceblue }
 
   img {
     display: block;
@@ -111,7 +108,7 @@
   .page-title__subtitle {
     font-weight: 400;
     font-size: 75%;
-    color: #828282; }
+    color: lightcoral; }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
