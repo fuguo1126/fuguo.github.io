@@ -3,7 +3,7 @@ layout: page
 title:  "心有多静，福有多深"
 subtitle: "富国"
 date:   2020-09-10 17:21
-categories: ["general"]
+categories: ["心里鸡汤"]
 ---
 
 心静，是一种境界，一种智慧，一种思考，也是人生转折的必要过程，更是人生成功的必要成本。
